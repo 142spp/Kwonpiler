@@ -1,0 +1,9 @@
+//testing
+int main()
+{
+/* multiline comment
+continue....
+*/
+/* Mult Com */
+return 0;
+}
