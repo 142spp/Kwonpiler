@@ -1,0 +1,9 @@
+const n=5;
+var x;
+begin
+  x:=n;
+  write x;
+  writeln;
+  y:= -1+3+2
+end.
+

@@ -5,7 +5,6 @@ commentSingle "//"
 commentMultBegin "/*"
 commentMultEnd "*/"
 
-
 %x CMNT
 
 %%
